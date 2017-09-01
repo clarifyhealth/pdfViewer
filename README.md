@@ -1,2 +1,2 @@
 # pdfViewer
-It is a pdf viewer
+It is a pdf viewer.
